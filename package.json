@@ -1,0 +1,22 @@
+{
+  "name": "async_ex_codebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeepdk/async_ex_codebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeepdk/async_ex_codebase/issues"
+  },
+  "homepage": "https://github.com/sudeepdk/async_ex_codebase#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
+}
